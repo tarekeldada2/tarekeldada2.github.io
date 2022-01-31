@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
+    <link rel="stylesheet" href="css/CiStyle.css">
+    <title>CI Tarek El dada</title>
+</head>
+<body>
+    <header>
+        <div class="acc">
+            <a href="index.html"><h2>Accueil</h2></a>
+        </div>
+
+        <div class="nom">
+            <h2>CI Tarek El dada</h2>
+        </div>
+
+        <div class="contact">
+            <div class="dropdown">
+                <span class="contword">Contacts</span>
+                <div class="dropdown-content">
+                    <img src="images/wifiLogo.svg" alt="Logo wifi">
+                   <p>Mail : tarekeldada5@gmail.com</p>
+                   <p>Ville : Nice</p>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="aero-container">
+        <img src="images/pattrouilleDeFrance.jpg" alt="Illustration Aérospatial">
+
+        <div class="aero-desc">
+            <h2>Automobile</h2>
+            <p>
+                Depuis tout petit, je suis passionné par l'automobile.Je suis plus particulièrement
+                intéressé par le milieu compétitif.
+            </p>
+        </div>
+    </div>
+
+    <div class="game-container">
+        <div class="game-desc">
+            <h2>Jeux-vidéos</h2>
+            <p>
+                Tout au long de ma vie, j'ai découvert diverses plateformes de jeux-vidéos.
+                Certaines m'ont plu d'autres moins, mais dans l'ensemble, je reste un amateur des jeux-vidéos.
+            </p>
+        </div>
+
+        <img src="images/gaming.jpg" alt="Illustration jeux Jeux-vidéos">
+    </div>
+
+    <div class="sport-container">
+        <img src="images/af609ac196b9e6426101f5fc68fa0fcc041178ade6310f8b56358c308990a5c4.jpg" alt="Illustration Sport">
+
+        <div class="sport-desc">
+            <h2>Cryptomonnaies</h2>
+            <p>
+                Je suis aussi un grand fan de cryptomonnaies. Je pense
+				que  c'est la monnaie du futur et je trouve le système de blockchain passionant. 
+				C'est étroitement en lien avec la cybersécurité.	
+        </div>
+    </div>
+	
+    <div class="game-container">
+        <div class="game-desc">
+            <h2>Spatial</h2>
+            <p>
+                Comme beaucoup d'enfants, étant petit je rêvais d'être astronaute.
+				En grandissant ma passion et fascination pour l'espace est toujours restée intact.
+            </p>
+        </div>
+
+        <img src="images/838_gettyimages-556921045.jpg" alt="Illustration jeux Jeux-vidéos">
+    </div>
+
+</body>
+</html>

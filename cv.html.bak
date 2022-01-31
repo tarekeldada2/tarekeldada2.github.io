@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
+    <link rel="stylesheet" href="css/CvStyle.css">
+    <title>CV Tarek El dada</title>
+</head>
+<body>
+    <header>
+        <div class="acc">
+            <a href="index.html"><h2>Accueil</h2></a>
+        </div>
+
+        <div class="nom">
+            <h2>CV Tarek El dada</h2>
+        </div>
+
+        <div class="contact">
+            <div class="dropdown">
+                <span class="contword">Contacts</span>
+                <div class="dropdown-content">
+                    <img src="images/wifiLogo.svg" alt="Logo wifi">
+                   <p>Mail : tarekeldada5@gmail.com</p>
+                   <p>Ville : Nice</p>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="cv-container">
+        <div class="cv-head">
+            <div class="cv-img-cont">
+                <img src="images/photoPerso.png" alt="Photo personnelle du CV">
+            </div>
+
+            <h1>Tarek El dada</h1>
+            <h3>BUT Réseaux et télécommunications</h3>
+        </div>
+        <div class="line"></div>
+        <div class="cv-content-container">
+            <div class="cv-content-left">
+                <h2>Formation</h2>
+                <ul>
+                    <li>BUT Réseaux et télécom</li>
+                    <li>CPGE</li>
+					<li>Baccalauréats scientifique</li>
+                </ul>
+                <h2>Compétences informatiques</h2>
+                <ul>
+                    <li>Linux</li>
+                    <li>Html / Css</li>
+                    <li>Python</li>
+                    <li>C</li>
+                    <li>SQL</li>
+                </ul>
+                <img src="images/cv-developer.png" alt="Illustration du CV">
+            </div>
+            <div class="line-vert"></div>
+            <div class="cv-content-right">
+                <img src="images/cv-lignedecode.jpg" alt="Illusration du CV">
+                <h2>Langues</h2>
+                <ul>
+                    <li>Français</li>
+                    <li>Anglais</li>
+					<li>Arabe du Golf</li>
+					<li>Allemand</li>
+                </ul>
+                <h2>Expériences professionnelles</h2>
+                <h3></h3>
+                <ul>
+                    <li>Recueil de besoins d'une entreprise</li>
+                    <li>Implémentation d'en besoin d'un client</li>
+                    <li>Création d'un site web</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <a href="docs/CV El dada Tarek.pdf" class="download-buton" target="_blank" rel="noopener noreferrer">
+        <img src="images/telecharger-cv.svg" alt="Icône de téléchargement">
+    </a>
+    
+</body>
+</html>

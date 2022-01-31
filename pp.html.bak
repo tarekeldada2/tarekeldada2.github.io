@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
+    <link rel="stylesheet" href="css/PpStyle.css">
+    <title>PP Tarek El dada</title>
+</head>
+<body>
+    <header>
+        <div class="acc">
+            <a href="index.html"><h2>Accueil</h2></a>
+        </div>
+
+        <div class="nom">
+            <h2>PP Tarek El dada</h2>
+        </div>
+
+        <div class="contact">
+            <div class="dropdown">
+                <span class="contword">Contacts</span>
+                <div class="dropdown-content">
+                    <img src="images/wifiLogo.svg" alt="Logo wifi">
+                   <p>Mail : tarekeldada5@gmail.com</p>
+                   <p>Ville : Nice</p>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="pp-container">
+        <div class="left-col">
+            <h2>Mon projet professionnel :</h2>
+            <p>
+                Actuellement en première année de BUT, je découvre les réseaux et l'informatique
+                dans sont ensemble et me familiarise avec divers outils et langages
+                tels que le C ou python. Une partie de ma formation et aussi
+                orientée vers la gestion de projet et la communication. J'ai aussi des
+                cours d'anglais. Je me forme donc aussi au développement web et 
+                à la programmation algorithmique.
+                Ma vision actuelle de mon projet professionnel est la suivante:
+            </p>
+
+            <ul>
+                <li class="item-1">but R&T </li>
+                <li class="item-2">Diplome d'ingénieur en cybersécurité</li>
+                <li class="item-3">Devenir Expert en sécurité informatique</li>
+            </ul>
+
+            <p>
+                En effet j'ai comme projet de me spécialiser dans la sécurité informatique.
+                J'ai découvert cette discipline en m'interréssant aux cryptomonnaies très tôt et m'y suis beaucoup intéressé sur mon
+                temps libre. J'ai une expérience limitée dans le domaine, mais j'ai pour objectif
+                de me former et d'en faire mon métier.
+            </p>
+        </div>
+
+        <img src="images/gameDevImg2.jpg" alt="Illustration de mon projet professionnel">
+    </div>
+
+</body>
+</html>
